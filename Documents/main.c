@@ -19,3 +19,10 @@ float function(float x, float z)
   return(y);
   printf (y)
 } 
+ float function(float x, float z)
+{
+  float y;
+  y=x-z;
+  return(y);
+  printf (y)
+} 
